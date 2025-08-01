@@ -1,0 +1,11 @@
+TODO:
+Add to projects section:
+EPA-cost optimization
+SWMM RTK automatic calibration
+HEC-HMS undergraduate reserach 
+Add the abstract submitted to the Water place
+Add undergrad research when it happends
+Add other employment: B&G VDC
+Add about me section:
+-I like XZY i am motivated by ABC
+-Im currently looking for a graduate program.
